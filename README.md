@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=zuramai&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=akimabs&show_icons=true)
 
 Here are some ideas to get you started:
 
