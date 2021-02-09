@@ -3,6 +3,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on @KlolaIndonesia
 - 🌱 I’m currently learning Mobile Development
 - 📫 How to reach me: Just follow my github and i'll follback you
